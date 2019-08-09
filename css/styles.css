@@ -2,11 +2,3 @@ html, body{
   font-family: 'Saira Stencil One', cursive;
   background-color: black;
 }
-
-#carousel {
-  width:800px;
-  height:200px;
-  margin-left: auto;
-  margin-right: auto;
-
-}
