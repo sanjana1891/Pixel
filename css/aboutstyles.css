@@ -1,5 +1,4 @@
-html
-head {
+html, head {
   font-family: 'Saira Stencil One', cursive;
   font-size: 50px
   background-color: black;
@@ -10,6 +9,12 @@ body {
 
 .navbar {
   font-family: 'Saira Stencil One', cursive;
+
+
+}
+
+.navbar-brand{
+  font-size: 40px;
 }
 
 .jumbotron {
