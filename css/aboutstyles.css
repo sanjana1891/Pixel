@@ -1,0 +1,20 @@
+html
+head {
+  font-family: 'Saira Stencil One', cursive;
+  font-size: 50px
+  background-color: black;
+}
+body {
+  background-color: black
+}
+
+.navbar {
+  font-family: 'Saira Stencil One', cursive;
+}
+
+.jumbotron {
+  font-family: 'Work Sans', sans-serif;
+  background-color: black;
+  text-align: center;
+  color: white
+}
