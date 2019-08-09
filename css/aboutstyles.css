@@ -14,7 +14,10 @@ body {
 
 .jumbotron {
   font-family: 'Work Sans', sans-serif;
+<<<<<<< HEAD
   background-color: black;
   text-align: center;
   color: white
+=======
+>>>>>>> 928b534473b66ba6dc36d3a973af6bc9d4425465
 }
