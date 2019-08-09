@@ -1,0 +1,14 @@
+html, body{
+  font-family: 'Saira Stencil One', cursive;
+  background-color: black
+}
+
+.card{
+  background-color: black;
+  color: black;
+}
+
+.card1{
+  background-color: black;
+  color: white;
+}
