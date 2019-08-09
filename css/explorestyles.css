@@ -1,0 +1,12 @@
+html,body{
+  font-family: 'Saira Stencil One', cursive;
+  
+}
+
+body{
+  background-color: black;
+}
+
+.navbar-brand{
+  font-size: 40px;
+}
