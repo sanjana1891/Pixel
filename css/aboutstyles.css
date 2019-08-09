@@ -1,7 +1,6 @@
 html, head {
   font-family: 'Saira Stencil One', cursive;
-  font-size: 50px
-  background-color: black;
+
 }
 body {
   background-color: black
@@ -20,6 +19,7 @@ body {
 .jumbotron {
   font-family: 'Work Sans', sans-serif;
 
+
   background-color: black;
   text-align: center;
   color: white
@@ -27,5 +27,6 @@ body {
   background-color: black;
   text-align: center;
   color: white
+
 
 }
